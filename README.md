@@ -153,19 +153,11 @@ UrbanNest-Real-Estate-Dashboard/
 3. Use the **Year**, **City** and **Property_Type** slicers to explore the data.
 4. Click any chart element (for example a city bar or a funnel stage) to cross-filter the other visuals.
 
-## 🚀 Future Improvements
-
-- Add year-over-year and month-over-month growth measures.
-- Add average sale price and price per sq. ft. by city and property type.
-- Add a drill-through page for individual cities and lead sources.
-- Track sales agent performance and lead source effectiveness.
-- Add forecasting for monthly revenue.
-- Publish to Power BI Service with scheduled refresh.
 
 ## 👤 Author
 
-**[Your Name]**
-Software Developer
+Raj Dahiwadkar
+Data Analyst
 
 - GitHub: [github.com/rajd12](https://github.com/rajd12)
 - LinkedIn: [linkedin.com/in/rajdahiwadkar](https://www.linkedin.com/in/rajdahiwadkar)
